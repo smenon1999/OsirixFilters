@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "Blur";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "Blur version 1.0, Copyright (c) 2016 Sidd.";
+NSHumanReadableCopyright = "Copyright (c) 2016 Sidd.";
